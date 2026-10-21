@@ -25,12 +25,12 @@ I run several n8n content pipelines in production — biography, nature, automot
 
 ## 🛠️ Toolbox
 
-**Backend:** Python · FastAPI · SQLAlchemy · REST APIs · Stripe · OAuth (LinkedIn, TikTok)
-**Mobile:** React Native · Expo · App Store / Google Play releases
-**AI:** Claude API · OpenAI · fal.ai (Kling, Flux, ElevenLabs) · prompt engineering
-**Automation:** n8n (self-hosted) · webhooks · Telegram bots
-**Infra:** AlmaLinux · cPanel/WHM · Apache · Supervisor · ffmpeg · Git
-**Background:** Java · Selenium (see archived repos)
+- **Backend:** Python · FastAPI · SQLAlchemy · REST APIs · Stripe · OAuth (LinkedIn, TikTok)
+- **Mobile:** React Native · Expo · App Store / Google Play releases
+- **AI:** Claude API · OpenAI · fal.ai (Kling, Flux, ElevenLabs) · prompt engineering
+- **Automation:** n8n (self-hosted) · webhooks · Telegram bots
+- **Infra:** AlmaLinux · cPanel/WHM · Apache · Supervisor · ffmpeg · Git
+- **Background:** Java · Selenium (see archived repos)
 
 ## 📫 Contact
 
