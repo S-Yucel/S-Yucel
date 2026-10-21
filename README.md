@@ -21,7 +21,9 @@ Creative studio: **[Wopi-D](https://wopi-d.com)** · *üreten yazılımcı*
 
 I run several n8n content pipelines in production — biography, nature, automotive, book and music (ALGORHYTHM) channels — covering scripting, image/video generation, rendering and publishing without manual steps.
 
-📂 Open-source workflow: **[n8n-copyright-safe-news-images](https://github.com/S-Yucel/n8n-copyright-safe-news-images)** — Telegram → GPT-4o Vision → Flux → WordPress
+📂 Open-source workflows:
+- **[n8n-workflows](https://github.com/S-Yucel/n8n-workflows)** — WordPress AI blog autopilot · source-checked plant shorts script & image generator
+- **[n8n-copyright-safe-news-images](https://github.com/S-Yucel/n8n-copyright-safe-news-images)** — Telegram → GPT-4o Vision → Flux → WordPress
 
 ## 🛠️ Toolbox
 
